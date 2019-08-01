@@ -1,2 +1,0 @@
-# billinggurus
-GitHub Pages
